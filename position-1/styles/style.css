@@ -62,7 +62,7 @@ body {
 
 .card-bg-img {
   height: 140px;
-  background-image: url(/position-1/assets/Oval.svg);
+  background-image: url(../assets/Oval.svg);
 }
 
 .profile-container {
